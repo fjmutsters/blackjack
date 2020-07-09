@@ -1,7 +1,6 @@
 # blackjack
 A game of BlackJack (Twenty-One) that interacts with the user
 
-Ironhack Logo
 BlackJack
 Frank Jan Mutsters
 PT Data Analytics, Amsterdam, July 2020
