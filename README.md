@@ -2,18 +2,18 @@
 
 # blackjack
 
-Frank Jan Mutsters
+Frank Jan Mutsters  
 PT Data Analytics, Amsterdam, July 2020
 
 ## Content
-Project Description
-Rules
-Workflow
-Organization
+Project Description  
+Rules  
+Workflow  
+Organization  
 Links
 
 ## Project Description
-A game of BlackJack (Twenty-One) that interacts with the user
+A game of BlackJack (Twenty-One) that interacts with the user  
 Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
 
 ## Rules
