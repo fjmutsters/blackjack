@@ -31,7 +31,7 @@ In this project I developed a game of BlackJack (Twenty-One) that interacts with
 Created a workflow to understand sequence of coding of the gameplay
 
 ## Organization
-Organized work with kanban board in trello  
+Organized work with kanban board in trello. 
 Repository is very simple containing a readme file and gitignore file and folder with 2 saved Jupyter Notebook files of code
 
 ## Links
